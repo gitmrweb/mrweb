@@ -1,5 +1,5 @@
-#Intégration de la maquette Davril sur une page internet
-----
+# Intégration de la maquette Davril sur une page internet
+
 
 ## Solution 1 :
 #### Intégration de la maquette avec compatibilité mobile/tablette
